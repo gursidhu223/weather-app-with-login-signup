@@ -1,0 +1,24 @@
+.contact-us-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .contact-us-page h1 {
+    color: #000;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-us-page p {
+    color: #000;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .contact-us-page h3 {
+    color: #000;
+    font-size: 22px;
+    margin-bottom: 15px;
+  }
+  

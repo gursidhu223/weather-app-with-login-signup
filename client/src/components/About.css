@@ -1,0 +1,55 @@
+.about-us {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .about-us h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .about-us__description {
+    font-size: 16px;
+    margin-bottom: 40px;
+  }
+  
+  .about-us h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .about-us__mission {
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  
+  .team-members {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+  }
+  
+  .team-member {
+    flex: 1;
+    margin-right: 30px;
+  }
+  
+  .team-member h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .team-member__role {
+    font-size: 16px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .team-member__description {
+    font-size: 14px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  
+  
